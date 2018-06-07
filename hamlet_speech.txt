@@ -10,7 +10,7 @@ Or to take arms against a sea of troubles,"
 "Real stupidity beats artificial intelligence every time."
 - Sir Tery Pratchett
 -------
-"Violence is the last refuge of the incompetent."
+"Violence is the last refuge of the incompetent." This is change from develop #2
 - Isaac Asimov
 
 This is change from develop #1
